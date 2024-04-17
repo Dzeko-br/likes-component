@@ -1,2 +1,3 @@
 # likes-component
-Bitrix component form set likes
+Битрикс компонент лайков статей.
+Запись происходит в тот же компонент.
